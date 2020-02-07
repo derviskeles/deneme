@@ -1,0 +1,9 @@
+
+.vs/deneme/v16/.suo
+*.lock
+.vs/deneme/v16/Server/sqlite3/storage.ide
+.vs/deneme/v16/Server/sqlite3/storage.ide-shm
+.vs/deneme/v16/Server/sqlite3/storage.ide-wal
+deneme/obj/Debug/deneme.csproj.CoreCompileInputs.cache
+deneme/obj/Debug/deneme.csprojAssemblyReference.cache
+deneme/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
